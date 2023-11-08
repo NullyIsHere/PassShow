@@ -10,7 +10,7 @@ function queueAuthorization() {
 
   // Crea el contenido del pop-up en la nueva ventana
   var popupContent = `
-  <link rel="icon" type="image/x-icon" href="https://passshow.nullyih.repl.co/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="https://passshow.altex.page/favicon.ico">
   <center>
     <div class="overlay" id="overlay"></div>
     <div class="popup" id="popup">
@@ -22,7 +22,7 @@ function queueAuthorization() {
         <!-- Agrega aquí el contenido adicional que desees mostrar en el pop-up -->
       </div>
     </div>
-    <link rel="stylesheet" href="https://passshow.nullyih.repl.co/popup.css">
+    <link rel="stylesheet" href="https://passshow.altex.page/popup.css">
     </center>
   `;
 
