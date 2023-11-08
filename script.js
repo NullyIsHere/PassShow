@@ -4,8 +4,6 @@ const passwordElement = document.getElementById('password')
 const ExamElement = document.getElementById('examtodo')
 ExamElement.innerHTML = "Today's Exam: " + promptExam
 
-
-
 function queueAuthorization() {
   // Abre una nueva ventana en blanco (una pestaña en blanco)
   var newWindow = window.open('', '_blank', 'width=400,height=400');
