@@ -1,0 +1,31 @@
+body {
+  font-family: 'Manrope', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+
+  background-image: url('bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /* Esto mantiene la imagen fija mientras se desplaza la página */
+  background-position: center center;
+  /* Esto centra la imagen en la pantalla */
+}
+
+div {
+  text-align: center;
+}
+
+h1 {
+  font-size: 124px;
+  /* Aumenta el tamaño de fuente para h1 */
+}
+
+h3 {
+  font-size: 86px;
+  /* Aumenta el tamaño de fuente para h2 */
+  /* color: #0073e6; */
+}
